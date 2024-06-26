@@ -1,4 +1,3 @@
-# job-listings-scraper
 # Job Listings Scraper
 
 A web scraping tool to extract job listings from LinkedIn using Python, Scrapy, and Selenium.
